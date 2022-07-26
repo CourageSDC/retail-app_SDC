@@ -7,11 +7,11 @@ npm run install
 ```
 Create a production build
 ```
-npm run build
+npm run build | npm run build-dev
 ```
 Start the server
 ```
-npm run server
+npm start | npm run start-dev
 ```
 ## Components
 This project has 4 main sections for a product each with various functionalities.
